@@ -1,0 +1,24 @@
+{
+  "name": "sanjeevani-medical-chatbot",
+  "version": "1.0.0",
+  "description": "Multilingual AI Medical Voice Chatbot & E-Pharmacy",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node test-api.mjs"
+  },
+  "keywords": [
+    "medical-chatbot",
+    "indic-languages",
+    "e-pharmacy",
+    "symptom-triage"
+  ],
+  "author": "Govindu Tarun Kumar Reddy",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^5.2.1",
+    "pptxgenjs": "^4.0.1"
+  }
+}
