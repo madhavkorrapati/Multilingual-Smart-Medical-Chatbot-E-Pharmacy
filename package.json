@@ -1,5 +1,5 @@
 {
-  "name": "sanjeevani-medical-chatbot",
+  "name": "medical-chatbot",
   "version": "1.0.0",
   "description": "Multilingual AI Medical Voice Chatbot & E-Pharmacy",
   "main": "server.js",
@@ -13,7 +13,7 @@
     "e-pharmacy",
     "symptom-triage"
   ],
-  "author": "Govindu Tarun Kumar Reddy",
+  "author": "Korrapati Madhav",
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
